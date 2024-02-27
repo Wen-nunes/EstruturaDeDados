@@ -1,0 +1,5 @@
+exercicio
+
+1- usando os codigos exemplos, refatore o de sua preferencia para gerar n numeros aleatorios, com tudo todo o numero par deve ser inserido na pilha, todo numero impar gerado deve remover um par do topo. 
+
+2- crie um arquivo texto com n numeros aleatorios, um a baixo do outro, faça um programa que leia o arquivo e insira os numeros em uma pilha, ao final o programa deve mostra o elemento do topo e o tamanho da pilha.
